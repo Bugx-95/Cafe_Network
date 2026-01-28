@@ -3,7 +3,7 @@
 Welcome to **Cafe_Network**, a friendly command-line bot that manages a cafe's greeting and ordering sequence. 
 
 ### 📅 The Backstory
-This is a very special repository because it contains the **first Python project** I ever created back in 2020! It was the moment I followed the advice:
+This is a very special repository because it contains the **first Python project** I ever created back in 2022! It was the moment I followed the advice:
 
 > *"You can't learn unless you start to build something."*
 
