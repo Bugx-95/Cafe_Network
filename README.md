@@ -24,3 +24,6 @@ I took those words to heart and built **Mack**. While the logic is simple, Mack 
 
 ---
 *Created with ❤️ by Bugx*
+
+### 🚀 update !
+* There is an updated version available on [version 2.0](https://github.com/Bugx-95/Cafe_Network/tree/v2)
